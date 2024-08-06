@@ -1,0 +1,6 @@
+[
+    {"type":"category","predicate":"boots", "value": 30},
+    {"type":"sku", "predicate":"000003", "value": 15},
+    {"type":"sku", "predicate":"000001", "value": 45},
+    {"type":"sku", "predicate":"000002", "value": 25}
+]

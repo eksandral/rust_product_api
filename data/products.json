@@ -1,0 +1,1802 @@
+[
+  {
+    "sku": "000001",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 93067
+  },
+  {
+    "sku": "000002",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 58663
+  },
+  {
+    "sku": "000003",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 83291
+  },
+  {
+    "sku": "000004",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 69759
+  },
+  {
+    "sku": "000005",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 69801
+  },
+  {
+    "sku": "000006",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 55379
+  },
+  {
+    "sku": "000007",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 80260
+  },
+  {
+    "sku": "000008",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 78854
+  },
+  {
+    "sku": "000009",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 66756
+  },
+  {
+    "sku": "000010",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 72716
+  },
+  {
+    "sku": "000011",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 68782
+  },
+  {
+    "sku": "000012",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 91701
+  },
+  {
+    "sku": "000013",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 83320
+  },
+  {
+    "sku": "000014",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 90185
+  },
+  {
+    "sku": "000015",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 51681
+  },
+  {
+    "sku": "000016",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 91818
+  },
+  {
+    "sku": "000017",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 75117
+  },
+  {
+    "sku": "000018",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 94606
+  },
+  {
+    "sku": "000019",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 72383
+  },
+  {
+    "sku": "000020",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 58369
+  },
+  {
+    "sku": "000021",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 91932
+  },
+  {
+    "sku": "000022",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 93547
+  },
+  {
+    "sku": "000023",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 80424
+  },
+  {
+    "sku": "000024",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 88765
+  },
+  {
+    "sku": "000025",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 57994
+  },
+  {
+    "sku": "000026",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 75179
+  },
+  {
+    "sku": "000027",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 60913
+  },
+  {
+    "sku": "000028",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 78894
+  },
+  {
+    "sku": "000029",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 62981
+  },
+  {
+    "sku": "000030",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 83380
+  },
+  {
+    "sku": "000031",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 68035
+  },
+  {
+    "sku": "000032",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 84779
+  },
+  {
+    "sku": "000033",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 51587
+  },
+  {
+    "sku": "000034",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 98561
+  },
+  {
+    "sku": "000035",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 55329
+  },
+  {
+    "sku": "000036",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 56545
+  },
+  {
+    "sku": "000037",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 51546
+  },
+  {
+    "sku": "000038",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 86890
+  },
+  {
+    "sku": "000039",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 96550
+  },
+  {
+    "sku": "000040",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 87727
+  },
+  {
+    "sku": "000041",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 71645
+  },
+  {
+    "sku": "000042",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 68616
+  },
+  {
+    "sku": "000043",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 84086
+  },
+  {
+    "sku": "000044",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 62233
+  },
+  {
+    "sku": "000045",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 70312
+  },
+  {
+    "sku": "000046",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 64993
+  },
+  {
+    "sku": "000047",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 56233
+  },
+  {
+    "sku": "000048",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 69352
+  },
+  {
+    "sku": "000049",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 70611
+  },
+  {
+    "sku": "000050",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 57378
+  },
+  {
+    "sku": "000051",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 82610
+  },
+  {
+    "sku": "000052",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 55364
+  },
+  {
+    "sku": "000053",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 56665
+  },
+  {
+    "sku": "000054",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 59183
+  },
+  {
+    "sku": "000055",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 92388
+  },
+  {
+    "sku": "000056",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 86515
+  },
+  {
+    "sku": "000057",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 76951
+  },
+  {
+    "sku": "000058",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 90855
+  },
+  {
+    "sku": "000059",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 98619
+  },
+  {
+    "sku": "000060",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 78737
+  },
+  {
+    "sku": "000061",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 60866
+  },
+  {
+    "sku": "000062",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 99792
+  },
+  {
+    "sku": "000063",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 59365
+  },
+  {
+    "sku": "000064",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 70596
+  },
+  {
+    "sku": "000065",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 92345
+  },
+  {
+    "sku": "000066",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 60493
+  },
+  {
+    "sku": "000067",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 88624
+  },
+  {
+    "sku": "000068",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 52555
+  },
+  {
+    "sku": "000069",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 81626
+  },
+  {
+    "sku": "000070",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 97790
+  },
+  {
+    "sku": "000071",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 88812
+  },
+  {
+    "sku": "000072",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 97949
+  },
+  {
+    "sku": "000073",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 63780
+  },
+  {
+    "sku": "000074",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 51896
+  },
+  {
+    "sku": "000075",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 89264
+  },
+  {
+    "sku": "000076",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 63702
+  },
+  {
+    "sku": "000077",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 62604
+  },
+  {
+    "sku": "000078",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 77507
+  },
+  {
+    "sku": "000079",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 71441
+  },
+  {
+    "sku": "000080",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 68023
+  },
+  {
+    "sku": "000081",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 79742
+  },
+  {
+    "sku": "000082",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 85072
+  },
+  {
+    "sku": "000083",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 74940
+  },
+  {
+    "sku": "000084",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 88420
+  },
+  {
+    "sku": "000085",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 60595
+  },
+  {
+    "sku": "000086",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 94424
+  },
+  {
+    "sku": "000087",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 72410
+  },
+  {
+    "sku": "000088",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 78379
+  },
+  {
+    "sku": "000089",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 73109
+  },
+  {
+    "sku": "000090",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 98315
+  },
+  {
+    "sku": "000091",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 98130
+  },
+  {
+    "sku": "000092",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 63605
+  },
+  {
+    "sku": "000093",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 90738
+  },
+  {
+    "sku": "000094",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 60328
+  },
+  {
+    "sku": "000095",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 94320
+  },
+  {
+    "sku": "000096",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 79249
+  },
+  {
+    "sku": "000097",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 87618
+  },
+  {
+    "sku": "000098",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 53565
+  },
+  {
+    "sku": "000099",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 56050
+  },
+  {
+    "sku": "000100",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 77013
+  },
+  {
+    "sku": "000101",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 57339
+  },
+  {
+    "sku": "000102",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 76690
+  },
+  {
+    "sku": "000103",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 81259
+  },
+  {
+    "sku": "000104",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 64094
+  },
+  {
+    "sku": "000105",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 83263
+  },
+  {
+    "sku": "000106",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 91876
+  },
+  {
+    "sku": "000107",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 66267
+  },
+  {
+    "sku": "000108",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 88782
+  },
+  {
+    "sku": "000109",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 82797
+  },
+  {
+    "sku": "000110",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 64393
+  },
+  {
+    "sku": "000111",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 71110
+  },
+  {
+    "sku": "000112",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 69813
+  },
+  {
+    "sku": "000113",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 57735
+  },
+  {
+    "sku": "000114",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 58350
+  },
+  {
+    "sku": "000115",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 77586
+  },
+  {
+    "sku": "000116",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 88623
+  },
+  {
+    "sku": "000117",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 68465
+  },
+  {
+    "sku": "000118",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 79255
+  },
+  {
+    "sku": "000119",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 73231
+  },
+  {
+    "sku": "000120",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 73656
+  },
+  {
+    "sku": "000121",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 82123
+  },
+  {
+    "sku": "000122",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 95624
+  },
+  {
+    "sku": "000123",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 90756
+  },
+  {
+    "sku": "000124",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 57787
+  },
+  {
+    "sku": "000125",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 55833
+  },
+  {
+    "sku": "000126",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 81282
+  },
+  {
+    "sku": "000127",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 73767
+  },
+  {
+    "sku": "000128",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 83280
+  },
+  {
+    "sku": "000129",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 53526
+  },
+  {
+    "sku": "000130",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 74096
+  },
+  {
+    "sku": "000131",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 50018
+  },
+  {
+    "sku": "000132",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 57086
+  },
+  {
+    "sku": "000133",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 72787
+  },
+  {
+    "sku": "000134",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 85480
+  },
+  {
+    "sku": "000135",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 53736
+  },
+  {
+    "sku": "000136",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 98986
+  },
+  {
+    "sku": "000137",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 80765
+  },
+  {
+    "sku": "000138",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 90183
+  },
+  {
+    "sku": "000139",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 59783
+  },
+  {
+    "sku": "000140",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 85496
+  },
+  {
+    "sku": "000141",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 85189
+  },
+  {
+    "sku": "000142",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 81660
+  },
+  {
+    "sku": "000143",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 89845
+  },
+  {
+    "sku": "000144",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 54138
+  },
+  {
+    "sku": "000145",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 57558
+  },
+  {
+    "sku": "000146",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 88495
+  },
+  {
+    "sku": "000147",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 72766
+  },
+  {
+    "sku": "000148",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 95824
+  },
+  {
+    "sku": "000149",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 52727
+  },
+  {
+    "sku": "000150",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 95491
+  },
+  {
+    "sku": "000151",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 52116
+  },
+  {
+    "sku": "000152",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 56264
+  },
+  {
+    "sku": "000153",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 81666
+  },
+  {
+    "sku": "000154",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 93498
+  },
+  {
+    "sku": "000155",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 87605
+  },
+  {
+    "sku": "000156",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 69331
+  },
+  {
+    "sku": "000157",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 79749
+  },
+  {
+    "sku": "000158",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 85195
+  },
+  {
+    "sku": "000159",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 58860
+  },
+  {
+    "sku": "000160",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 83382
+  },
+  {
+    "sku": "000161",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 91478
+  },
+  {
+    "sku": "000162",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 95093
+  },
+  {
+    "sku": "000163",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 53681
+  },
+  {
+    "sku": "000164",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 93018
+  },
+  {
+    "sku": "000165",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 87957
+  },
+  {
+    "sku": "000166",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 99054
+  },
+  {
+    "sku": "000167",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 67258
+  },
+  {
+    "sku": "000168",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 56308
+  },
+  {
+    "sku": "000169",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 79787
+  },
+  {
+    "sku": "000170",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 80893
+  },
+  {
+    "sku": "000171",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 50262
+  },
+  {
+    "sku": "000172",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 81062
+  },
+  {
+    "sku": "000173",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 63564
+  },
+  {
+    "sku": "000174",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 92550
+  },
+  {
+    "sku": "000175",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 88413
+  },
+  {
+    "sku": "000176",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 61215
+  },
+  {
+    "sku": "000177",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 79459
+  },
+  {
+    "sku": "000178",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 88768
+  },
+  {
+    "sku": "000179",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 60459
+  },
+  {
+    "sku": "000180",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 84534
+  },
+  {
+    "sku": "000181",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 82105
+  },
+  {
+    "sku": "000182",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 73995
+  },
+  {
+    "sku": "000183",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 87886
+  },
+  {
+    "sku": "000184",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 52991
+  },
+  {
+    "sku": "000185",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 64612
+  },
+  {
+    "sku": "000186",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 70862
+  },
+  {
+    "sku": "000187",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 85218
+  },
+  {
+    "sku": "000188",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 80644
+  },
+  {
+    "sku": "000189",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 98739
+  },
+  {
+    "sku": "000190",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 92640
+  },
+  {
+    "sku": "000191",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 87083
+  },
+  {
+    "sku": "000192",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 82721
+  },
+  {
+    "sku": "000193",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 88686
+  },
+  {
+    "sku": "000194",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 74577
+  },
+  {
+    "sku": "000195",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 67499
+  },
+  {
+    "sku": "000196",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 94365
+  },
+  {
+    "sku": "000197",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 55157
+  },
+  {
+    "sku": "000198",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 71437
+  },
+  {
+    "sku": "000199",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 73415
+  },
+  {
+    "sku": "000200",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 96036
+  },
+  {
+    "sku": "000201",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 97066
+  },
+  {
+    "sku": "000202",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 94110
+  },
+  {
+    "sku": "000203",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 77134
+  },
+  {
+    "sku": "000204",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 62412
+  },
+  {
+    "sku": "000205",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 86851
+  },
+  {
+    "sku": "000206",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 65997
+  },
+  {
+    "sku": "000207",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 83503
+  },
+  {
+    "sku": "000208",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 56696
+  },
+  {
+    "sku": "000209",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 99812
+  },
+  {
+    "sku": "000210",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 80223
+  },
+  {
+    "sku": "000211",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 81355
+  },
+  {
+    "sku": "000212",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 65332
+  },
+  {
+    "sku": "000213",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 61530
+  },
+  {
+    "sku": "000214",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 56211
+  },
+  {
+    "sku": "000215",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 85730
+  },
+  {
+    "sku": "000216",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 50781
+  },
+  {
+    "sku": "000217",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 56995
+  },
+  {
+    "sku": "000218",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 84814
+  },
+  {
+    "sku": "000219",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 83476
+  },
+  {
+    "sku": "000220",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 89419
+  },
+  {
+    "sku": "000221",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 61555
+  },
+  {
+    "sku": "000222",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 80054
+  },
+  {
+    "sku": "000223",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 96139
+  },
+  {
+    "sku": "000224",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 53029
+  },
+  {
+    "sku": "000225",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 55616
+  },
+  {
+    "sku": "000226",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 88104
+  },
+  {
+    "sku": "000227",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 97887
+  },
+  {
+    "sku": "000228",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 64718
+  },
+  {
+    "sku": "000229",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 75449
+  },
+  {
+    "sku": "000230",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 68703
+  },
+  {
+    "sku": "000231",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 83244
+  },
+  {
+    "sku": "000232",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 69911
+  },
+  {
+    "sku": "000233",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 69765
+  },
+  {
+    "sku": "000234",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 72450
+  },
+  {
+    "sku": "000235",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 96449
+  },
+  {
+    "sku": "000236",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 86408
+  },
+  {
+    "sku": "000237",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 60960
+  },
+  {
+    "sku": "000238",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 68302
+  },
+  {
+    "sku": "000239",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 97265
+  },
+  {
+    "sku": "000240",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 56879
+  },
+  {
+    "sku": "000241",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 88571
+  },
+  {
+    "sku": "000242",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 94954
+  },
+  {
+    "sku": "000243",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 77181
+  },
+  {
+    "sku": "000244",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 51570
+  },
+  {
+    "sku": "000245",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 54305
+  },
+  {
+    "sku": "000246",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 55874
+  },
+  {
+    "sku": "000247",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 81076
+  },
+  {
+    "sku": "000248",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 84469
+  },
+  {
+    "sku": "000249",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 78861
+  },
+  {
+    "sku": "000250",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 78850
+  },
+  {
+    "sku": "000251",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 86566
+  },
+  {
+    "sku": "000252",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 86282
+  },
+  {
+    "sku": "000253",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 99145
+  },
+  {
+    "sku": "000254",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 50388
+  },
+  {
+    "sku": "000255",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 80554
+  },
+  {
+    "sku": "000256",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 82993
+  },
+  {
+    "sku": "000257",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 81093
+  },
+  {
+    "sku": "000258",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 63896
+  },
+  {
+    "sku": "000259",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 72530
+  },
+  {
+    "sku": "000260",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 51911
+  },
+  {
+    "sku": "000261",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 52353
+  },
+  {
+    "sku": "000262",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 81138
+  },
+  {
+    "sku": "000263",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 62332
+  },
+  {
+    "sku": "000264",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 80168
+  },
+  {
+    "sku": "000265",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 98870
+  },
+  {
+    "sku": "000266",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 68762
+  },
+  {
+    "sku": "000267",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 67604
+  },
+  {
+    "sku": "000268",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 88984
+  },
+  {
+    "sku": "000269",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 69351
+  },
+  {
+    "sku": "000270",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 71874
+  },
+  {
+    "sku": "000271",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 63171
+  },
+  {
+    "sku": "000272",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 54551
+  },
+  {
+    "sku": "000273",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 61457
+  },
+  {
+    "sku": "000274",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 98561
+  },
+  {
+    "sku": "000275",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 83453
+  },
+  {
+    "sku": "000276",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 53348
+  },
+  {
+    "sku": "000277",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 58771
+  },
+  {
+    "sku": "000278",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 58064
+  },
+  {
+    "sku": "000279",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 85869
+  },
+  {
+    "sku": "000280",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 50130
+  },
+  {
+    "sku": "000281",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 92923
+  },
+  {
+    "sku": "000282",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 60323
+  },
+  {
+    "sku": "000283",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 75212
+  },
+  {
+    "sku": "000284",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 53819
+  },
+  {
+    "sku": "000285",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 72662
+  },
+  {
+    "sku": "000286",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 84717
+  },
+  {
+    "sku": "000287",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 56787
+  },
+  {
+    "sku": "000288",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 57041
+  },
+  {
+    "sku": "000289",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 93144
+  },
+  {
+    "sku": "000290",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 90359
+  },
+  {
+    "sku": "000291",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 95128
+  },
+  {
+    "sku": "000292",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 88861
+  },
+  {
+    "sku": "000293",
+    "name": "Nice shirts",
+    "category": "shirts",
+    "price": 78560
+  },
+  {
+    "sku": "000294",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 61414
+  },
+  {
+    "sku": "000295",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 92875
+  },
+  {
+    "sku": "000296",
+    "name": "Nice pants",
+    "category": "pants",
+    "price": 56237
+  },
+  {
+    "sku": "000297",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 73774
+  },
+  {
+    "sku": "000298",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 66135
+  },
+  {
+    "sku": "000299",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 86220
+  },
+  {
+    "sku": "000300",
+    "name": "Nice boots",
+    "category": "boots",
+    "price": 73542
+  }
+]
